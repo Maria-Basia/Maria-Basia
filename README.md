@@ -1,5 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=Maria-Basia&icon=0&color=10)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
-👋 Hi, I'm Maria Basia!<br><br>🦄 Junior Software Engineer with a rich 8-year background in UX Research and Accessibility<br><br>👨‍💻 Recently graduated from Makers Software Bootcamp, where I honed my skills in full-stack development using a range of languages and technology<br><br>💡 Passionate about developing inclusive, user-centered products and fostering collaborative, innovative environments<br><br>🚀 Excited to contribute to impactful projects and continually expand my tech expertise. Let's build something amazing together!<br><br>📫Email: maria.basia1@gmail.com<br><br>😄 Pronouns: She/Her
+👋 Hi, I'm Maria Basia!<br><br>🦄 Junior Software Engineer with a rich 8-year background in UX Research and Accessibility<br><br>👨‍💻 Recently graduated from Makers Software Bootcamp, where I honed my skills in full-stack development using a range of languages and technology<br><br>💡 Passionate about developing inclusive, User-Centered products and fostering collaborative, innovative environments<br><br>🚀 Excited to contribute to impactful projects and continually expand my tech expertise. Let's build something amazing together!<br><br>📫Email: maria.basia1@gmail.com<br><br>😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
@@ -13,6 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Basia&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maria-Basia&icon=0&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
