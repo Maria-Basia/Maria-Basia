@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Maria Basia!<br><br>🦄 Junior Software Engineer with a rich 8-year background in UX Research and Accessibility<br><br>👨‍💻 Recently graduated from Makers Software Bootcamp, where I honed my skills in full-stack development using a range of languages and technology<br><br>💡 Passionate about developing inclusive, user-centered products and fostering collaborative, innovative environments<br><br>🚀 Excited to contribute to impactful projects and continually expand my tech expertise. Let's build something amazing together!<br><br>📫Email: maria.basia1@gmail.com<br><br>😄 Pronouns: She/Her
+👋 Hi, I'm Maria Basia!<br><br>🦄 Junior Software Engineer with a strong 8-year background in UX Research and Accessibility<br><br>👨‍💻 Recently graduated from Makers Software Bootcamp, where I honed my skills in full-stack development using a range of languages and technology<br><br>💡 Passionate about developing inclusive, user-centered products and fostering collaborative, innovative environments<br><br>🚀 Excited to contribute to impactful projects and continually expand my tech knowledge. Let's build something amazing together!<br><br>📫Email: maria.basia1@gmail.com<br><br>😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
