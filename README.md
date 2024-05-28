@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Maria-Basia&icon=0&color=10)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-👋 Hi, I'm Maria Basia!<br><br>🦄 A Junior Software Developer and multifaceted Product Unicorn, blending technical skills with UX expertise gained from an 8-year career in UX Research and Accessibility. <br><br>👨‍💻 Recently graduated from Makers Software Bootcamp, where I honed my skills in full-stack development using a range of languages and technology<br><br>💡 Passionate about developing inclusive, User-Centered products and fostering collaborative, innovative environments<br><br>🚀 Excited to contribute to impactful projects and continually expand my tech expertise. Let's build something amazing together!<br><br>📫Email: maria.basia1@gmail.com<br><br>😄 Pronouns: She/Her
+👋  Hi, I'm Maria Basia!<br><br>🦄  A Junior Software Developer and multifaceted Product Unicorn, blending technical skills with UX expertise gained from an 8-year career in UX Research and Accessibility. <br><br>👨‍💻  Recently graduated from Makers Software Bootcamp, where I honed my skills in full-stack development using a range of languages and technology<br><br>💡  Passionate about developing inclusive, User-Centered products and fostering collaborative, innovative environments<br><br>🚀  Excited to contribute to impactful projects and continually expand my tech expertise. Let's build something amazing together!<br><br>📫  Email: maria.basia1@gmail.com<br><br>😄  Pronouns: She/Her
 
 
 ## 🌐 Socials:
