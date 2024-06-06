@@ -104,7 +104,7 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 
 Tajadura-Jimenez, A., Basia, M., Deroy, O., Fairhurst, M., Marquardt, N., & Bianchi-Berthouze, N. (2015). [As light as your footsteps: altering walking sounds to change perceived body weight, emotional state and gait](https://discovery.ucl.ac.uk/id/eprint/1464800/) 33rd annual ACM conference on human factors in computing systems 
 
-Moulianitis, V., Syrimpeis, V., Aspragathos, N., Panagiotopoulos, E., Basia, M., & Fournianakis, I. (2013) [Expert system for gait event detection based on the gait cycle of both lower limbs](https://esbiomech.org/papers/ESB_congress_2013/posters/P132-468.pdf) 
+Moulianitis, V., Syrimpeis, V., Aspragathos, N., Panagiotopoulos, E., Basia, M., & Fournianakis, I. (2013) [Expert system for gait event detection based on the gait cycle of both lower limbs](https://esbiomech.org/papers/ESB_congress_2013/posters/P132-468.pdf) <br><br>
 
 
 ## 📊 GitHub Stats
