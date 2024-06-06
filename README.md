@@ -35,7 +35,63 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 | [MakersBnB](https://github.com/Maria-Basia/makersBnB_web_app.git) | A property rental web app similar to Airbnb. The project was developed using Test-Driven Development (TDD). Key features include user signup and login with sessions, viewing all property listings, detailed property pages, single-night bookings, and creating new property listings | 1 week | Python, Flask, Pytest, HTML, CSS, PostgreSQL |
 | [FuryRoam](https://github.com/Maria-Basia/travel_recommendations_web_app.git) | Personalised travel recommendations based on user preferences and historical weather data. Multiple APIs fetch relevant data, tailoring recommendations to user input, including city details and weather APIs. A map API allows visual exploration of recommended cities. Logic and API request timing was refactored to reduce response time leading to a seamless User Experience. | 2 weeks | Python, Flask, Pytest, React, Vite, Vitetest, HTML, CSS, Render (deployment) |
 
-# 📊 GitHub Stats:
+### 💼 Professional experience
+
+#### Makers, London, UK 
+**Junior Software Engineer**, Jan 2024 - May 2024 <br>
+
+* Collaborated in diverse teams, delivering full-stack solutions under tight timelines, utilising various technologies and languages, including Python, JavaScript, Swift, CSS, and HTML, the MERN stack (React, Express.js, MongoDB, Node.js), PostgreSQL
+* Implemented agile practices in group projects: stand-ups, retros, pull request review protocols
+* Acquired rapid language learning and effective research skills
+* Implemented Test-Driven Development for robust code with unit, integration, and feature tests
+* Extensively practised pair programming for enhanced collaboration and code quality 
+* Acquired a solid understanding of Object-Oriented Programming (OOP) principles
+* Implemented a design-first approach, mapping out multi-class systems based on user stories, designing database structures, and utilising diagrams for visualisation before development 
+* Practised navigating and building on complex legacy codebase 
+* Utilised Git & GitHub for version control in projects <br><br>
+
+#### Toyota Connected Europe (contract), London, UK 
+**Senior UX Researcher**, Jul 2023 - Oct 2023 <br>
+
+* Gathered business requirements in workshops, translating them into research questions
+* Supported the Electric Vehicle team in designing and evaluating a new app journey <br><br>
+
+#### Zoa (contract), London, UK 
+**Senior UX Researcher**, Dec 2022 - Feb 2023 <br>
+
+* Collaborated with cross-functional Product teams
+* Led Strategic Research and conducted competitor analysis to inform product roadmaps
+* Established participant recruitment process with external recruitment agencies <br>
+
+#### Bulb Energy (contract), London, UK 
+**Senior UX Researcher**, Mar 2022 - Feb 2023 <br>
+
+* Led workshops for business requirement gathering, collaborative Research data analysis, solution ideation, and user story creation amongst others
+* Supported Payments team in designing and evaluating new app and web journeys
+* Conducted data analysis on extensive qualitative data sets
+* Founding Accessibility Champions member, created training material and delivered presentations
+* Mentored and trained Junior User Researchers <br><br>
+
+#### Aviva, London, UK 
+**Senior UX Researcher**, Oct 2018 - Jul 2021 <br>
+
+* Led complex and strategic Research projects marrying qual and quant data
+* Presented internal talks to advocate for User-Centred Design and Accessibility
+* Developed templates to improve consistency and efficiency in deliverables <br><br>
+
+#### Bunnyfoot, London, UK 
+**Senior UX Researcher**, May 2018 2018 - Oct 2018 - Junior UX Researcher, Mar 2015 - May 2018 <br>
+
+* Led complex projects involving hard-to-reach customers and cross-functional teams 
+* Led Accessibility Research projects with users of a range of assistive technologies
+* Collaborated with top clients such as BBC, HSBC, Channel 4, Virgin Media, Sky, Vodafone, EasyJet, Tesco, Imperial College Business School and more
+* Mentored team members to enhance their Research skills 
+* Led organisation’s first VR Usability Testing and created VR Research guide <br>
+
+
+
+
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Basia&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
