@@ -1,7 +1,20 @@
 [![](https://visitcount.itsvg.in/api?id=Maria-Basia&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<h1 align="center"> 💫 Hi, welcome to my GitHub CV </h1>
-👋  Hi, I'm Maria Basia!<br><br>🦄  A Junior Software Developer, blending technical skills with UX expertise gained from an 8-year career in UX Research and Accessibility. <br><br>👨‍💻  Recently graduated from Makers Software Bootcamp, where I honed my skills in full-stack development using a range of languages and technology<br><br>💡  Passionate about developing inclusive, User-Centered products and fostering collaborative, innovative environments<br><br>🚀  Excited to contribute to impactful projects and continually expand my tech expertise. Let's build something amazing together!<br><br>📫  Email: maria.basia1@gmail.com<br><br>👩  Pronouns: She/Her<br><br>🌟 Hobbies & Interests:<br>- 💍 Jewellery Making: Crafting unique silver pieces<br>- 🍞 Cooking and Making Doughs: I love making pasta, bread, and filo pastries<br>- 🐶 Petting All the Dogs in the World: One day I'll adopt a dog, for now, I'm the person running after every dog I see!
+<h1 align="center"> 💫 Hi, I'm Maria! Welcome to my GitHub CV </h1>
+
+<h2 align="center"> 🦄 Previously a UX Researcher. Now a Software Engineer </h2>
+
+### A little bit about me...
+
+I am a Junior Software Engineer, seamlessly blending technical skills with UX expertise gained from an 8-year career in UX Research and Accessibility. Recently graduating from Makers Software Bootcamp, I honed skills including Python, JavaScript, Swift, CSS, HTML, MERN stack, and PostgreSQL while collaborating with diverse teams to deliver full-stack projects.
+
+I bring a wealth of soft skills, including exceptional communication, problem-solving, strategic thinking, and collaboration abilities, enabling me to drive user-centred solutions and enhance team collaboration. With a solid understanding of the product lifecycle, a strong customer-centric approach, and a strong sense of empathy, I am empowered to bridge the gap between user needs and technical implementation, driving innovation.
+
+### Outside coding you'll find me...
+
+💍 Crafting unique silver jewels <br>
+🍞 Cooking and making doughs from pasta to bread and filo pastries
+🐶 Petting All the Dogs in the World: One day I'll adopt a dog, for now, I'm the person running after every dog I see!
 
 
 ## 🌐 Socials:
