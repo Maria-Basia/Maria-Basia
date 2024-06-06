@@ -31,7 +31,7 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 
 | Title    | Description | Timeframe | Tech |
 | -------- | ----------- | --------- | ---- |
-| [![Acebook]([https://www.linkedin.com/in/maria-basia](https://github.com/Maria-Basia/acebook-krypton-web-app.git)) | xxx   |
+| [Acebook]([https://www.linkedin.com/in/maria-basia](https://github.com/Maria-Basia/acebook-krypton-web-app.git)) | A Facebook-like web app built with the MERN stack. Starting from a legacy codebase with account creation, login, and viewing posts functionality, features were added for creating and liking posts, commenting on posts, liking comments, editing password, and viewing profile details amongst others.  | 2 weeks | MERN stack, MongoDB, Express.js, React, Node.js, JavaScript 
 | MakersBnB | xxx    |
 | FuryRoam    | xxx    |
 
