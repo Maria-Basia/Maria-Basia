@@ -26,6 +26,7 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Invision](https://img.shields.io/badge/invision-FF3366?style=flat&logo=invision&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)  <br><br>
+<br><br>
 
 ### 🛠 Web development projects
 
@@ -86,17 +87,17 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 * Led Accessibility Research projects with users of a range of assistive technologies
 * Collaborated with top clients such as BBC, HSBC, Channel 4, Virgin Media, Sky, Vodafone, EasyJet, Tesco, Imperial College Business School and more
 * Mentored team members to enhance their Research skills 
-* Led organisation’s first VR Usability Testing and created VR Research guide <br><br>
+* Led organisation’s first VR Usability Testing and created VR Research guide <br><br><br>
 
 ### 🎓 Education <br>
 
 #### University College London, UCL, London, UK 
-**MSc Human Computer Interaction with Ergonomics**, Sep 2013 - Sep 2014 - 
-**Grade:** Distinction 
+**MSc** Human-Computer Interaction with Ergonomics, Sep 2013 - Sep 2014 <br> 
+**Grade:** Distinction <br>
 Best Dissertation Prize <br><br>
 
 #### University of the Aegean, Greece 
-**5-year BSc (Integrated MSc) Product and System's Design Engineering**, Sep 2005 - Sep 2010 - 
+**5-year BSc (Integrated MSc)** Product and System's Design Engineering, Sep 2005 - Sep 2010 <br>
 **Grade:** 7.6/ 10 - equivalent to 2:1 <br><br>
 
 ### 📊 GitHub Stats:
