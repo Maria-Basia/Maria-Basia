@@ -13,7 +13,7 @@
 
 #### A little bit about me...
 
-I am a Junior Software Engineer, seamlessly blending technical skills with UX expertise gained from an 8-year career in UX Research and Accessibility. Recently graduating from Makers Software Bootcamp, I honed skills including Python, JavaScript, Swift, CSS, HTML, MERN stack, and PostgreSQL while collaborating with diverse teams to deliver full-stack projects.
+I am a Junior Software Engineer, seamlessly blending technical skills with UX expertise gained from an 8-year career in UX Research and Accessibility. Recently graduating from Makers Software Bootcamp, I honed a range of tech skills including Python, JavaScript, Swift, CSS, HTML, MERN stack, and PostgreSQL while collaborating with diverse teams to deliver full-stack projects.
 
 I bring a wealth of soft skills, including exceptional communication, problem-solving, strategic thinking, and collaboration abilities, enabling me to drive user-centred solutions and enhance team collaboration. With a solid understanding of the product lifecycle, a strong customer-centric approach, and a strong sense of empathy, I am empowered to bridge the gap between user needs and technical implementation, driving innovation.
 
