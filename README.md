@@ -61,7 +61,7 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 
 * Collaborated with cross-functional Product teams
 * Led Strategic Research and conducted competitor analysis to inform product roadmaps
-* Established participant recruitment process with external recruitment agencies <br>
+* Established participant recruitment process with external recruitment agencies <br><br>
 
 #### Bulb Energy (contract), London, UK 
 **Senior UX Researcher**, Mar 2022 - Feb 2023 <br>
@@ -86,8 +86,7 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 * Led Accessibility Research projects with users of a range of assistive technologies
 * Collaborated with top clients such as BBC, HSBC, Channel 4, Virgin Media, Sky, Vodafone, EasyJet, Tesco, Imperial College Business School and more
 * Mentored team members to enhance their Research skills 
-* Led organisation’s first VR Usability Testing and created VR Research guide <br>
-
+* Led organisation’s first VR Usability Testing and created VR Research guide <br><br>
 
 
 
