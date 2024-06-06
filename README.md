@@ -4,8 +4,12 @@
 
 <h3 align="center"> 🦄 Previously a UX Researcher. Now a Software Engineer </h3> <br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/maria-basia">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-basia) 
 
 
 #### A little bit about me...
