@@ -32,9 +32,9 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 
 | Title    | Description | Timeframe | Tech |
 | -------- | ----------- | --------- | ---- |
-| [Acebook](https://github.com/Maria-Basia/acebook-krypton-web-app.git) | A Facebook-like web app built with the MERN stack. Starting from a legacy codebase with account creation, login, and viewing posts functionality, features were added for creating and liking posts, commenting on posts, liking comments, editing password, and viewing profile details amongst others | 2 weeks | MERN stack, MongoDB, Express.js, React, Node.js, JavaScript |
-| [MakersBnB](https://github.com/Maria-Basia/makersBnB_web_app.git) | A property rental web app similar to Airbnb. The project was developed using Test-Driven Development (TDD). Key features include user signup and login with sessions, viewing all property listings, detailed property pages, single-night bookings, and creating new property listings | 1 week | Python, Flask, Pytest, HTML, CSS, PostgreSQL |
-| [FuryRoam](https://github.com/Maria-Basia/travel_recommendations_web_app.git) | Personalised travel recommendations based on user preferences and historical weather data. Multiple APIs fetch relevant data, tailoring recommendations to user input, including city details and weather APIs. A map API allows visual exploration of recommended cities. Logic and API request timing was refactored to reduce response time leading to a seamless User Experience. | 2 weeks | Python, Flask, Pytest, React, Vite, Vitetest, HTML, CSS, Render (deployment) |
+| ![Acebook](https://github.com/Maria-Basia/acebook-krypton-web-app.git) | A Facebook-like web app built with the MERN stack. Starting from a legacy codebase with account creation, login, and viewing posts functionality, features were added for creating and liking posts, commenting on posts, liking comments, editing password, and viewing profile details amongst others | 2 weeks | MERN stack, MongoDB, Express.js, React, Node.js, JavaScript |
+| ![MakersBnB](https://github.com/Maria-Basia/makersBnB_web_app.git) | A property rental web app similar to Airbnb. The project was developed using Test-Driven Development (TDD). Key features include user signup and login with sessions, viewing all property listings, detailed property pages, single-night bookings, and creating new property listings | 1 week | Python, Flask, Pytest, HTML, CSS, PostgreSQL |
+| ![FuryRoam](https://github.com/Maria-Basia/travel_recommendations_web_app.git) | Personalised travel recommendations based on user preferences and historical weather data. Multiple APIs fetch relevant data, tailoring recommendations to user input, including city details and weather APIs. A map API allows visual exploration of recommended cities. Logic and API request timing was refactored to reduce response time leading to a seamless User Experience. | 2 weeks | Python, Flask, Pytest, React, Vite, Vitetest, HTML, CSS, Render (deployment) |
 
 <br><br>
 ## 💼 Professional experience <br>
@@ -94,14 +94,18 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 
 ### University College London, UCL, London, UK 
 **MSc** Human-Computer Interaction with Ergonomics, Sep 2013 - Sep 2014 <br> 
-**Grade:** Distinction <br>
-Best Dissertation Prize <br><br>
+**Grade:** Distinction & Best Dissertation Prize <br><br>
 
 ### University of the Aegean, Greece 
 **5-year BSc (Integrated MSc)** Product and System's Design Engineering, Sep 2005 - Sep 2010 <br>
 **Grade:** 7.6/ 10 - equivalent to 2:1 <br><br><br>
 
-### 📊 GitHub Stats:
+## 📚 Publications <br>
+
+Tajadura-Jimenez, A., Basia, M., Deroy, O., Fairhurst, M., Marquardt, N., & Bianchi-Berthouze, N. (2015). ![As light as your footsteps: altering walking sounds to change perceived body weight, emotional state and gait](https://discovery.ucl.ac.uk/id/eprint/1464800/) 33rd annual ACM conference on human factors in computing systems 
+
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Basia&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
