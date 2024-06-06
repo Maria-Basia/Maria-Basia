@@ -2,7 +2,9 @@
 
 <h1 align="center"> 💫 Hi, I'm Maria! Welcome to my GitHub CV </h1>
 
-<h3 align="center" style="margin-bottom: 0;"> 🦄 Previously a UX Researcher. Now a Software Engineer </h3> <br>
+<h3 align="center"> 🦄 Previously a UX Researcher. Now a Software Engineer </h3> <br>
+
+<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-basia) </div>
 
 #### A little bit about me...
 
