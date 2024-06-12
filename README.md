@@ -20,8 +20,8 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 #### When I'm not coding you'll find me...
 
 💍 Crafting unique silver jewels <br>
-🍞 Cooking and making doughs from pasta to bread and filo pastries <br>
-🐶 Petting All the Dogs in the World: One day I'll adopt a dog, for now, I'm the person running after every dog I see! <br><br>
+🍞 Cooking and making doughs - from pasta to bread and filo pastries <br>
+🐶 Petting All the Dogs in the World! One day I'll adopt a dog, for now, I'm the person running after every dog I see! <br><br>
 
 
 ## 💻 Tech Stack:
