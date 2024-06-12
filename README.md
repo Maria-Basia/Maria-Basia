@@ -47,7 +47,7 @@ I bring a wealth of soft skills, including exceptional communication, problem-so
 * Acquired rapid language learning and effective research skills
 * Implemented Test-Driven Development for robust code with unit, integration, and feature tests
 * Extensively practised pair programming for enhanced collaboration and code quality 
-* Acquired a solid understanding of Object-Oriented Programming (OOP) principles
+* Acquired an understanding of Object-Oriented Programming (OOP) principles
 * Implemented a design-first approach, mapping out multi-class systems based on user stories, designing database structures, and utilising diagrams for visualisation before development 
 * Practised navigating and building on complex legacy codebase 
 * Utilised Git & GitHub for version control in projects <br><br>
